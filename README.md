@@ -2,9 +2,6 @@
 
 ✨This repository is created to learn and deploy a 2-tier application on aws cloud through Terraform. 
 
-## If you are a visual learner, feel free to check out this video: 
-[![2-tier Architecture using terraform](https://img.youtube.com/vi/s8q5B6DLH7s/sddefault.jpg)](https://youtu.be/s8q5B6DLH7s)
-
 ## 🏠 Architecture
 
 ![Architecture diagram](https://github.com/AnkitJodhani/3rdWeekofCloudOps/blob/main/architecture.gif)
